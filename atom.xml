@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[(find (source))]]></title>
+  <title><![CDATA[(going :right)]]></title>
   <link href="http://gsnewmark.github.com/atom.xml" rel="self"/>
   <link href="http://gsnewmark.github.com/"/>
-  <updated>2012-11-03T22:57:22+02:00</updated>
+  <updated>2012-11-15T22:09:13+02:00</updated>
   <id>http://gsnewmark.github.com/</id>
   <author>
     <name><![CDATA[gsnewmark]]></name>
