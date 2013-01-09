@@ -4,7 +4,7 @@
   <title><![CDATA[(going :right)]]></title>
   <link href="http://gsnewmark.github.com/atom.xml" rel="self"/>
   <link href="http://gsnewmark.github.com/"/>
-  <updated>2012-12-03T23:10:32+02:00</updated>
+  <updated>2013-01-09T22:57:47+02:00</updated>
   <id>http://gsnewmark.github.com/</id>
   <author>
     <name><![CDATA[gsnewmark]]></name>
@@ -12,30 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Across the arch]]></title>
-    <link href="http://gsnewmark.github.com/blog/2012/12/03/across-the-arch/"/>
-    <updated>2012-12-03T22:01:00+02:00</updated>
-    <id>http://gsnewmark.github.com/blog/2012/12/03/across-the-arch</id>
-    <content type="html"><![CDATA[<p>For the last two years I used mainly Mac OS X. Before that I was a Linux user
-for quite a long time.</p>
-
-<p>Recently I&#8217;ve got tired of Mac a bit and decide to take a look at modern state
-of Linux. In this series of posts I will try to describe my adventures in a
-Linux-land starting from installation and to some notes about every-day usage.</p>
-
-<p>First of all I installed latest <strong>Ubuntu</strong> - but was gravely disappointed by
-it. Long in short, it&#8217;s trying to be a Mac-like, but forgetting about its
-<em>roots</em>. Maybe it&#8217;s just me, but I wanted a more flexible and configurable
-system right out the box, and Ubuntu failed at providing this. At the same
-time the visual part of Ubuntu is, in my opinion, still far behind the Mac,
-although I can&#8217;t say it&#8217;s ugly). As to the usability of Unity, I can&#8217;t say
-anything, because I used it for maybe 1 or 2 hours and quickly understood that
-I&#8217;m looking for something else.</p>
-
-<p>So I decided to install <strong>Arch Linux</strong>&#8230;</p>
-]]></content>
-  </entry>
   
 </feed>
